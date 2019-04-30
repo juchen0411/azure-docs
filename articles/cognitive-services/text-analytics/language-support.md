@@ -31,6 +31,7 @@ Language support is initially rolled out in preview, graduating to generally ava
 |:----------- |:-------------:|:---------:|:-----------:|:-----------:|:-----------:
 | Arabic      | `ar`          |           |             | ✔ \*                     | |
 | Czech       | `cs`          |           |             | ✔ \*                     | |
+| Chinese-Traditioanl| `zh-CHT`|           |             | ✔ \*        |    |
 | Chinese-Simplified | `zh-CN`|           |             | ✔ \*        |    |
 | Danish      | `da`          | ✔ \*     | ✔           | ✔ \*            |     |
 | Dutch       | `nl`          | ✔ \*     | ✔          |  ✔ \*           |     |
